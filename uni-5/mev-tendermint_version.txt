@@ -1,7 +1,1 @@
 v0.34.21-mev.8
-
-
-CONFIG_REPO="https://raw.githubusercontent.com/skip-mev/config/main/$CHAIN_ID" && \
-export MEV_TENDERMINT_VERSION="$(curl -s "$CONFIG_REPO/mev-tendermint_version.txt")" && \
-export RELAYER_RPC_STRING="$(curl -s "$CONFIG_REPO/relayer_rpc_string")" && \
-export RELAYER_PEER_STRING="$(curl -s "$CONFIG_REPO/relayer_peer_string")" && \
