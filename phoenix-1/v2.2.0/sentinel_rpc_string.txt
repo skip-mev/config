@@ -1,1 +1,1 @@
-http://phoenix-1-api.skip.money
+https://phoenix-1-api.skip.money
