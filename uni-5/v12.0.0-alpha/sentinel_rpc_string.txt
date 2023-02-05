@@ -1,1 +1,1 @@
-http://uni-5-api.skip.money
+https://uni-5-api.skip.money

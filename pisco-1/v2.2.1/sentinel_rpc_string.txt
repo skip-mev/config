@@ -1,1 +1,1 @@
-http://pisco-1-api.skip.money
+https://pisco-1-api.skip.money

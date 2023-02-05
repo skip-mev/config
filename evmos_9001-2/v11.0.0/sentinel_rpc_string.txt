@@ -1,1 +1,1 @@
-http://evmos_9001-2-api.skip.money
+https://evmos-9001-2-api.skip.money
