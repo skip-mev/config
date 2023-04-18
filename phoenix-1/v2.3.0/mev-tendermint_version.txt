@@ -1,1 +1,1 @@
-v0.34.21-terra.1-mev.18
+v0.34.27-terra.rc.1-mev.18
